@@ -15,3 +15,21 @@ h1{
     font-weight: bold;
     color: royalblue;
 }
+
+div.box1{
+    height: 100px;
+    width: 100px;
+    background-color: slategray;
+}
+
+div.box2{
+    height: 100px;
+    width: 100px;
+    background-color: thistle;
+}
+
+div.box3{
+    height: 100px;
+    width: 100px;
+    background-color: whitesmoke;
+}
