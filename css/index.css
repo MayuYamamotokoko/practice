@@ -5,6 +5,11 @@ p#sub-title2 {
     color: pink;
 }
 
+.company{ 
+    font-weight: bold;
+    font-size: larger;
+}
+
 h1{
     font-size: 35pt;
     font-weight: bold;
