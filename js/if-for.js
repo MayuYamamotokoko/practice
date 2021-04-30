@@ -33,7 +33,7 @@
 //     console.log(i);
 // }
 
-function scorecheck(){
+function scoreCheck(){
 let testscore = document.getElementById('score').value
 if(testscore >= 80){
      document.write("合格です！おめでとうございます！");
